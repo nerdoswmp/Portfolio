@@ -51,7 +51,7 @@ export default function Info(){
                                 <div>
                                     <h1>
                                         Python
-                                        <TextoImg src='http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png'/>
+                                        <TextoImg src='https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png'/>
                                     </h1>
                                     <h4>
                                         Aprendi python pouco antes de ser contratado, cerca de 1-2 meses pra ser mais exato
@@ -244,15 +244,16 @@ export default function Info(){
                                 Edição de imagens
                             </h1>
                             <h4>
-                                To sem exemplos na mão pra esse
+                                Pasme
                             </h4>
                             <h4>
-                                To sem 4G e as imagens existem ou no meu twitter ou no meu 
-                                computador, por enquanto use o site de referência
+                                Segue ao lado o Gabriel "Gigachad" Pucci Bizio, um dos 
+                                nossos colégas de serviço e mascote não oficial dos italianos
+                                em Curitiba
                             </h4>
                         </div>
                         <div>
-                            <h1>Contate Gabriel Pucci Bizio e peça à ele para lhe mostrar a imagem "Bizio Gigachad"</h1>
+                            <ImgResponse src='https://cdn.discordapp.com/attachments/915347062260899870/916323879385989161/Bizio_GigaChad.png'></ImgResponse>
                         </div>
                     </FlexHSkills>
                     <FlexHSkills>
@@ -287,14 +288,17 @@ export default function Info(){
                                 Desenhar
                             </h1>
                             <h4>
-                                Sem exemplo pra esse tb
+                                Isso mesmo desenhos
                             </h4>
                             <h4>
-                                Depois encontro e depois eu adiciono
+                                Normalmente eu gosto mais de usar um estilo que seja cru,
+                                acho que fica mais interessante e combina mais com o que eu gosto de desenhar.
+                                Basicamente um freehand que depois você pega e vai polindo, tipo os
+                                rabiscos que normalmente são feitos em cadernos do ensino médio
                             </h4>
                         </div>
                         <div>
-                            <h1>Claro devolva meu 4G</h1>
+                            <ImgResponse src='https://cdn.discordapp.com/attachments/305153556434911272/612823912815919114/binarybigbg.png'></ImgResponse>
                         </div>
                     </FlexHSkills>
                 </FlexVer>

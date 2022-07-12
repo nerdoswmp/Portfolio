@@ -1,5 +1,5 @@
 import styled, { createGlobalStyle } from "styled-components";
-import { purpleNavy, darkerPurple } from "../config/colors";
+import { purpleNavy, darkerPurple, lavender } from "../config/colors";
 
 export default createGlobalStyle`
     *{
@@ -24,6 +24,11 @@ export default createGlobalStyle`
 
     a{
         text-decoration: none;
+        color: ${lavender};
+    }
+
+    a:hover{
+        color: ${purpleNavy};
     }
 
     ul{
@@ -53,5 +58,6 @@ export const Container2 = styled.section`
     @media only screen and (min-width: 1700px){
         max-width: 75%;
     }
+
 
 `
