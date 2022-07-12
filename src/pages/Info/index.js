@@ -22,11 +22,11 @@ export default function Info(){
                         </div>
                         <div>
                             <h4>
-                                Bem vindo ao portifólio mais profissional do mundo
+                                Bem vindo ao portfólio mais profissional do mundo
                             </h4>
                             <br></br>
                             <h4>
-                                O portifólio será dividido entre conhecimentos e feitos profissionais (programação, projetos) e outros hobbies
+                                O portfólio será dividido entre conhecimentos e feitos profissionais (programação, projetos) e outros hobbies
                                 (modelagem 3D, música, etc)
                             </h4>
                         </div>
